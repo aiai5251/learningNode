@@ -1,0 +1,23 @@
+{
+  "name": "hello-koa",
+  "version": "1.0.0",
+  "description": "nodeKoa框架",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-router": "7.0.0",
+    "koa-bodyparser": "3.2.0",
+    "sequelize": "3.24.1",
+    "mysql": "2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "yaorong",
+  "license": "Apache-2.0"
+}
